@@ -1,0 +1,13 @@
+{
+  "name": "om",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node java.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
